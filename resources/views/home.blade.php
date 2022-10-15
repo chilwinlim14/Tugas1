@@ -63,6 +63,9 @@
                   <li class="nav-item">
                     <a class="nav-link" style="color:white" href="/contact">Contact Me</a>
                   </li>
+                  <li class="nav-item">
+                    <a class="nav-link" style="color:white" href="/krs">KRS</a>
+                  </li>
                 </ul>
 
                   </li>

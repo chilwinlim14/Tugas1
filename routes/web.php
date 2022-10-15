@@ -28,3 +28,7 @@ Route::get('/contact', function () {
 Route::get('/home', function () {
     return view('home');
 });
+
+Route::get('/krs', function () {
+    return view('krs');
+});
