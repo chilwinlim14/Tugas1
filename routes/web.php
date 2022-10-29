@@ -36,3 +36,7 @@ Route::get('/', function () {
 Route::get('/krs', function () {
     return view('KRS');
 });
+
+Route::get('/khs', function () { 
+    return view('khschilwin'); 
+});
